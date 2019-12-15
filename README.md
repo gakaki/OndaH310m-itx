@@ -1,4 +1,4 @@
-# OndaH310m-itx 昂达H30m-itx
+# OndaH310m-itx 昂达H310m-itx
 
 # ONDA-H310SD3-ITX-MacOS
 
